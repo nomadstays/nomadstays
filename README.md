@@ -4,7 +4,7 @@ Welcome to **Nomad Stays** – your partner in seamless travel and accommodation
 
 ## 🌍 About Us
 
-NomadStays is dedicated to revolutionizing the way travelers find and book accommodations. We're building tools and services to make travel planning easier, more efficient, and more enjoyable for digital nomads and travelers worldwide.
+Nomad Stays is dedicated to revolutionizing the way travelers find and book accommodations. We're building tools and services to make travel planning easier, more efficient, and more enjoyable for digital nomads and travelers worldwide.
 
 ## 🛠️ MCP Server
 
