@@ -1,6 +1,6 @@
-# NomadStays
+# Nomad Stays
 
-Welcome to **NomadStays** – your partner in seamless travel and accommodation experiences.
+Welcome to **Nomad Stays** – your partner in seamless travel and accommodation experiences.
 
 ## 🌍 About Us
 
@@ -14,9 +14,6 @@ We provide a powerful Model Context Protocol (MCP) server to integrate with AI a
 
 Our MCP server enables seamless integration with AI tools, allowing developers to build intelligent applications that leverage our travel and accommodation services.
 
-## 📦 Open Source
-
-We're committed to open source and may publish code repositories in the future. Stay tuned for tools, libraries, and resources that help the developer and travel community.
 
 ## 🤝 Get Involved
 
